@@ -1,0 +1,701 @@
+1000000_0
+Thread 0 execution time: 1281 ms
+Thread 1 execution time: 1053 ms
+Thread 2 execution time: 1239 ms
+Thread 3 execution time: 1520 ms
+Thread 4 execution time: 1554 ms
+Thread 5 execution time: 1587 ms
+Thread 6 execution time: 995 ms
+Thread 7 execution time: 1414 ms
+Thread 8 execution time: 1541 ms
+Thread 9 execution time: 908 ms
+Average execution time: 1309 ms
+
+1000000_1
+Thread 0 execution time: 1597 ms
+Thread 1 execution time: 1654 ms
+Thread 2 execution time: 1652 ms
+Thread 3 execution time: 1646 ms
+Thread 4 execution time: 1172 ms
+Thread 5 execution time: 976 ms
+Thread 6 execution time: 1081 ms
+Thread 7 execution time: 1070 ms
+Thread 8 execution time: 1549 ms
+Thread 9 execution time: 1118 ms
+Average execution time: 1351 ms
+
+1000000_2
+
+Thread 0 execution time: 1629 ms
+Thread 1 execution time: 1694 ms
+Thread 2 execution time: 1762 ms
+Thread 3 execution time: 645 ms
+Thread 4 execution time: 1743 ms
+Thread 5 execution time: 925 ms
+Thread 6 execution time: 1833 ms
+Thread 7 execution time: 1765 ms
+Thread 8 execution time: 1829 ms
+Thread 9 execution time: 1163 ms
+Average execution time: 1498 ms
+
+1000000_3
+
+Thread 0 execution time: 1854 ms
+Thread 1 execution time: 1350 ms
+Thread 2 execution time: 1816 ms
+Thread 3 execution time: 1458 ms
+Thread 4 execution time: 1849 ms
+Thread 5 execution time: 619 ms
+Thread 6 execution time: 1827 ms
+Thread 7 execution time: 1842 ms
+Thread 8 execution time: 1717 ms
+Thread 9 execution time: 1713 ms
+Average execution time: 1604 ms
+
+1000000_4
+
+Thread 0 execution time: 896 ms
+Thread 1 execution time: 1679 ms
+Thread 2 execution time: 1413 ms
+Thread 3 execution time: 1644 ms
+Thread 4 execution time: 1650 ms
+Thread 5 execution time: 1216 ms
+Thread 6 execution time: 1618 ms
+Thread 7 execution time: 1472 ms
+Thread 8 execution time: 1683 ms
+Thread 9 execution time: 669 ms
+Average execution time: 1394 ms
+
+1000000_0_almost
+
+Thread 0 execution time: 1337 ms
+Thread 1 execution time: 1494 ms
+Thread 2 execution time: 1415 ms
+Thread 3 execution time: 1396 ms
+Thread 4 execution time: 1402 ms
+Thread 5 execution time: 1395 ms
+Thread 6 execution time: 1488 ms
+Thread 7 execution time: 1479 ms
+Thread 8 execution time: 1343 ms
+Thread 9 execution time: 1479 ms
+Average execution time: 1422 ms
+
+1000000_1_almost
+
+Thread 0 execution time: 1607 ms
+Thread 1 execution time: 1457 ms
+Thread 2 execution time: 1033 ms
+Thread 3 execution time: 1209 ms
+Thread 4 execution time: 1576 ms
+Thread 5 execution time: 1520 ms
+Thread 6 execution time: 1584 ms
+Thread 7 execution time: 1590 ms
+Thread 8 execution time: 1130 ms
+Thread 9 execution time: 1485 ms
+Average execution time: 1419 ms
+
+1000000_2_almost
+
+Thread 0 execution time: 650 ms
+Thread 1 execution time: 1322 ms
+Thread 2 execution time: 1592 ms
+Thread 3 execution time: 1574 ms
+Thread 4 execution time: 1360 ms
+Thread 5 execution time: 1369 ms
+Thread 6 execution time: 1424 ms
+Thread 7 execution time: 1587 ms
+Thread 8 execution time: 1594 ms
+Thread 9 execution time: 1314 ms
+Average execution time: 1378 ms
+
+1000000_3_almost
+
+Thread 0 execution time: 1778 ms
+Thread 1 execution time: 1818 ms
+Thread 2 execution time: 887 ms
+Thread 3 execution time: 1743 ms
+Thread 4 execution time: 1687 ms
+Thread 5 execution time: 1805 ms
+Thread 6 execution time: 1213 ms
+Thread 7 execution time: 1533 ms
+Thread 8 execution time: 1776 ms
+Thread 9 execution time: 609 ms
+Average execution time: 1484 ms
+
+1000000_4_almost
+
+Thread 0 execution time: 1629 ms
+Thread 1 execution time: 602 ms
+Thread 2 execution time: 1157 ms
+Thread 3 execution time: 940 ms
+Thread 4 execution time: 1594 ms
+Thread 5 execution time: 1576 ms
+Thread 6 execution time: 1682 ms
+Thread 7 execution time: 992 ms
+Thread 8 execution time: 1667 ms
+Thread 9 execution time: 1001 ms
+Average execution time: 1284 ms
+
+500000_0
+
+Thread 0 execution time: 1006 ms
+Thread 1 execution time: 463 ms
+Thread 2 execution time: 983 ms
+Thread 3 execution time: 859 ms
+Thread 4 execution time: 947 ms
+Thread 5 execution time: 480 ms
+Thread 6 execution time: 863 ms
+Thread 7 execution time: 1012 ms
+Thread 8 execution time: 984 ms
+Thread 9 execution time: 1013 ms
+Average execution time: 861 ms
+
+500000_1
+
+Thread 0 execution time: 1023 ms
+Thread 1 execution time: 983 ms
+Thread 2 execution time: 693 ms
+Thread 3 execution time: 519 ms
+Thread 4 execution time: 1019 ms
+Thread 5 execution time: 834 ms
+Thread 6 execution time: 715 ms
+Thread 7 execution time: 775 ms
+Thread 8 execution time: 983 ms
+Thread 9 execution time: 538 ms
+Average execution time: 808 ms
+
+500000_2
+
+Thread 0 execution time: 419 ms
+Thread 1 execution time: 704 ms
+Thread 2 execution time: 971 ms
+Thread 3 execution time: 902 ms
+Thread 4 execution time: 972 ms
+Thread 5 execution time: 935 ms
+Thread 6 execution time: 923 ms
+Thread 7 execution time: 966 ms
+Thread 8 execution time: 960 ms
+Thread 9 execution time: 790 ms
+Average execution time: 854 ms
+
+500000_3
+
+Thread 0 execution time: 845 ms
+Thread 1 execution time: 583 ms
+Thread 2 execution time: 488 ms
+Thread 3 execution time: 553 ms
+Thread 4 execution time: 905 ms
+Thread 5 execution time: 719 ms
+Thread 6 execution time: 908 ms
+Thread 7 execution time: 842 ms
+Thread 8 execution time: 704 ms
+Thread 9 execution time: 899 ms
+Average execution time: 744 ms
+
+500000_4
+
+Thread 0 execution time: 638 ms
+Thread 1 execution time: 899 ms
+Thread 2 execution time: 889 ms
+Thread 3 execution time: 884 ms
+Thread 4 execution time: 577 ms
+Thread 5 execution time: 597 ms
+Thread 6 execution time: 737 ms
+Thread 7 execution time: 891 ms
+Thread 8 execution time: 872 ms
+Thread 9 execution time: 615 ms
+Average execution time: 759 ms
+
+500000_0_almost
+
+Thread 0 execution time: 726 ms
+Thread 1 execution time: 518 ms
+Thread 2 execution time: 432 ms
+Thread 3 execution time: 666 ms
+Thread 4 execution time: 743 ms
+Thread 5 execution time: 766 ms
+Thread 6 execution time: 563 ms
+Thread 7 execution time: 745 ms
+Thread 8 execution time: 356 ms
+Thread 9 execution time: 768 ms
+Average execution time: 628 ms
+
+500000_1_almost
+
+Thread 0 execution time: 788 ms
+Thread 1 execution time: 784 ms
+Thread 2 execution time: 763 ms
+Thread 3 execution time: 731 ms
+Thread 4 execution time: 770 ms
+Thread 5 execution time: 794 ms
+Thread 6 execution time: 788 ms
+Thread 7 execution time: 775 ms
+Thread 8 execution time: 657 ms
+Thread 9 execution time: 766 ms
+Average execution time: 761 ms
+
+500000_2_almost
+
+Thread 0 execution time: 986 ms
+Thread 1 execution time: 940 ms
+Thread 2 execution time: 982 ms
+Thread 3 execution time: 925 ms
+Thread 4 execution time: 915 ms
+Thread 5 execution time: 840 ms
+Thread 6 execution time: 978 ms
+Thread 7 execution time: 839 ms
+Thread 8 execution time: 860 ms
+Thread 9 execution time: 844 ms
+Average execution time: 910 ms
+
+500000_3_almost
+
+Thread 0 execution time: 556 ms
+Thread 1 execution time: 918 ms
+Thread 2 execution time: 652 ms
+Thread 3 execution time: 859 ms
+Thread 4 execution time: 764 ms
+Thread 5 execution time: 385 ms
+Thread 6 execution time: 835 ms
+Thread 7 execution time: 518 ms
+Thread 8 execution time: 933 ms
+Thread 9 execution time: 878 ms
+Average execution time: 729 ms
+
+500000_4_almost
+
+Thread 0 execution time: 1004 ms
+Thread 1 execution time: 1003 ms
+Thread 2 execution time: 873 ms
+Thread 3 execution time: 1006 ms
+Thread 4 execution time: 943 ms
+Thread 5 execution time: 1008 ms
+Thread 6 execution time: 842 ms
+Thread 7 execution time: 1010 ms
+Thread 8 execution time: 924 ms
+Thread 9 execution time: 428 ms
+Average execution time: 904 ms
+
+
+100000_0
+
+Thread 0 execution time: 398 ms
+Thread 1 execution time: 299 ms
+Thread 2 execution time: 410 ms
+Thread 3 execution time: 400 ms
+Thread 4 execution time: 395 ms
+Thread 5 execution time: 405 ms
+Thread 6 execution time: 402 ms
+Thread 7 execution time: 311 ms
+Thread 8 execution time: 288 ms
+Thread 9 execution time: 384 ms
+Average execution time: 369 ms
+
+100000_1
+
+Thread 0 execution time: 358 ms
+Thread 1 execution time: 410 ms
+Thread 2 execution time: 409 ms
+Thread 3 execution time: 355 ms
+Thread 4 execution time: 359 ms
+Thread 5 execution time: 349 ms
+Thread 6 execution time: 342 ms
+Thread 7 execution time: 405 ms
+Thread 8 execution time: 326 ms
+Thread 9 execution time: 341 ms
+Average execution time: 365 ms
+
+100000_2
+
+Thread 0 execution time: 402 ms
+Thread 1 execution time: 429 ms
+Thread 2 execution time: 415 ms
+Thread 3 execution time: 422 ms
+Thread 4 execution time: 406 ms
+Thread 5 execution time: 438 ms
+Thread 6 execution time: 436 ms
+Thread 7 execution time: 428 ms
+Thread 8 execution time: 424 ms
+Thread 9 execution time: 409 ms
+Average execution time: 420 ms
+
+100000_3
+
+Thread 0 execution time: 386 ms
+Thread 1 execution time: 381 ms
+Thread 2 execution time: 373 ms
+Thread 3 execution time: 435 ms
+Thread 4 execution time: 392 ms
+Thread 5 execution time: 397 ms
+Thread 6 execution time: 398 ms
+Thread 7 execution time: 389 ms
+Thread 8 execution time: 386 ms
+Thread 9 execution time: 437 ms
+Average execution time: 397 ms
+
+100000_4
+
+Thread 0 execution time: 415 ms
+Thread 1 execution time: 370 ms
+Thread 2 execution time: 358 ms
+Thread 3 execution time: 340 ms
+Thread 4 execution time: 364 ms
+Thread 5 execution time: 376 ms
+Thread 6 execution time: 344 ms
+Thread 7 execution time: 416 ms
+Thread 8 execution time: 352 ms
+Thread 9 execution time: 373 ms
+Average execution time: 370 ms
+
+100000_0_almost
+
+Thread 0 execution time: 382 ms
+Thread 1 execution time: 390 ms
+Thread 2 execution time: 361 ms
+Thread 3 execution time: 379 ms
+Thread 4 execution time: 393 ms
+Thread 5 execution time: 372 ms
+Thread 6 execution time: 364 ms
+Thread 7 execution time: 364 ms
+Thread 8 execution time: 384 ms
+Thread 9 execution time: 375 ms
+Average execution time: 376 ms
+
+100000_1_almost
+
+Thread 0 execution time: 395 ms
+Thread 1 execution time: 401 ms
+Thread 2 execution time: 327 ms
+Thread 3 execution time: 358 ms
+Thread 4 execution time: 337 ms
+Thread 5 execution time: 344 ms
+Thread 6 execution time: 358 ms
+Thread 7 execution time: 360 ms
+Thread 8 execution time: 361 ms
+Thread 9 execution time: 401 ms
+Average execution time: 364 ms
+
+100000_2_almost
+
+Thread 0 execution time: 365 ms
+Thread 1 execution time: 363 ms
+Thread 2 execution time: 374 ms
+Thread 3 execution time: 343 ms
+Thread 4 execution time: 372 ms
+Thread 5 execution time: 343 ms
+Thread 6 execution time: 363 ms
+Thread 7 execution time: 354 ms
+Thread 8 execution time: 367 ms
+Thread 9 execution time: 346 ms
+Average execution time: 359 ms
+
+
+
+100000_3_almost
+
+Thread 0 execution time: 321 ms
+Thread 1 execution time: 397 ms
+Thread 2 execution time: 325 ms
+Thread 3 execution time: 331 ms
+Thread 4 execution time: 318 ms
+Thread 5 execution time: 389 ms
+Thread 6 execution time: 393 ms
+Thread 7 execution time: 321 ms
+Thread 8 execution time: 385 ms
+Thread 9 execution time: 309 ms
+Average execution time: 348 ms
+
+100000_4_almost
+
+Thread 0 execution time: 343 ms
+Thread 1 execution time: 382 ms
+Thread 2 execution time: 389 ms
+Thread 3 execution time: 316 ms
+Thread 4 execution time: 348 ms
+Thread 5 execution time: 335 ms
+Thread 6 execution time: 315 ms
+Thread 7 execution time: 325 ms
+Thread 8 execution time: 384 ms
+Thread 9 execution time: 343 ms
+Average execution time: 348 ms
+
+50000_0
+
+Thread 0 execution time: 280 ms
+Thread 1 execution time: 285 ms
+Thread 2 execution time: 298 ms
+Thread 3 execution time: 242 ms
+Thread 4 execution time: 283 ms
+Thread 5 execution time: 274 ms
+Thread 6 execution time: 287 ms
+Thread 7 execution time: 292 ms
+Thread 8 execution time: 290 ms
+Thread 9 execution time: 295 ms
+Average execution time: 282 ms
+
+50000_1
+
+Thread 0 execution time: 248 ms
+Thread 1 execution time: 274 ms
+Thread 2 execution time: 272 ms
+Thread 3 execution time: 270 ms
+Thread 4 execution time: 271 ms
+Thread 5 execution time: 249 ms
+Thread 6 execution time: 240 ms
+Thread 7 execution time: 266 ms
+Thread 8 execution time: 244 ms
+Thread 9 execution time: 211 ms
+Average execution time: 254 ms
+
+50000_2
+
+Thread 0 execution time: 270 ms
+Thread 1 execution time: 264 ms
+Thread 2 execution time: 286 ms
+Thread 3 execution time: 290 ms
+Thread 4 execution time: 267 ms
+Thread 5 execution time: 289 ms
+Thread 6 execution time: 260 ms
+Thread 7 execution time: 286 ms
+Thread 8 execution time: 264 ms
+Thread 9 execution time: 259 ms
+Average execution time: 273 ms
+
+50000_3
+
+Thread 0 execution time: 282 ms
+Thread 1 execution time: 289 ms
+Thread 2 execution time: 248 ms
+Thread 3 execution time: 242 ms
+Thread 4 execution time: 253 ms
+Thread 5 execution time: 300 ms
+Thread 6 execution time: 292 ms
+Thread 7 execution time: 250 ms
+Thread 8 execution time: 305 ms
+Thread 9 execution time: 297 ms
+Average execution time: 275 ms
+
+50000_4
+
+Thread 0 execution time: 328 ms
+Thread 1 execution time: 280 ms
+Thread 2 execution time: 324 ms
+Thread 3 execution time: 323 ms
+Thread 4 execution time: 308 ms
+Thread 5 execution time: 314 ms
+Thread 6 execution time: 284 ms
+Thread 7 execution time: 329 ms
+Thread 8 execution time: 327 ms
+Thread 9 execution time: 317 ms
+Average execution time: 313 ms
+
+50000_0_almost
+
+Thread 0 execution time: 324 ms
+Thread 1 execution time: 296 ms
+Thread 2 execution time: 316 ms
+Thread 3 execution time: 317 ms
+Thread 4 execution time: 291 ms
+Thread 5 execution time: 293 ms
+Thread 6 execution time: 297 ms
+Thread 7 execution time: 322 ms
+Thread 8 execution time: 287 ms
+Thread 9 execution time: 319 ms
+Average execution time: 306 ms
+
+50000_1_almost
+
+Thread 0 execution time: 313 ms
+Thread 1 execution time: 314 ms
+Thread 2 execution time: 270 ms
+Thread 3 execution time: 304 ms
+Thread 4 execution time: 293 ms
+Thread 5 execution time: 309 ms
+Thread 6 execution time: 296 ms
+Thread 7 execution time: 274 ms
+Thread 8 execution time: 309 ms
+Thread 9 execution time: 270 ms
+Average execution time: 295 ms
+
+50000_2_almost
+
+Thread 0 execution time: 282 ms
+Thread 1 execution time: 283 ms
+Thread 2 execution time: 287 ms
+Thread 3 execution time: 276 ms
+Thread 4 execution time: 245 ms
+Thread 5 execution time: 283 ms
+Thread 6 execution time: 285 ms
+Thread 7 execution time: 285 ms
+Thread 8 execution time: 285 ms
+Thread 9 execution time: 247 ms
+Average execution time: 275 ms
+
+50000_3_almost
+
+Thread 0 execution time: 272 ms
+Thread 1 execution time: 265 ms
+Thread 2 execution time: 304 ms
+Thread 3 execution time: 302 ms
+Thread 4 execution time: 300 ms
+Thread 5 execution time: 298 ms
+Thread 6 execution time: 268 ms
+Thread 7 execution time: 294 ms
+Thread 8 execution time: 305 ms
+Thread 9 execution time: 307 ms
+Average execution time: 291 ms
+
+50000_4_almost
+
+Thread 0 execution time: 281 ms
+Thread 1 execution time: 256 ms
+Thread 2 execution time: 283 ms
+Thread 3 execution time: 282 ms
+Thread 4 execution time: 258 ms
+Thread 5 execution time: 260 ms
+Thread 6 execution time: 280 ms
+Thread 7 execution time: 261 ms
+Thread 8 execution time: 254 ms
+Thread 9 execution time: 276 ms
+Average execution time: 269 ms
+
+10000_0
+
+Thread 0 execution time: 169 ms
+Thread 1 execution time: 171 ms
+Thread 2 execution time: 159 ms
+Thread 3 execution time: 155 ms
+Thread 4 execution time: 164 ms
+Thread 5 execution time: 171 ms
+Thread 6 execution time: 156 ms
+Thread 7 execution time: 160 ms
+Thread 8 execution time: 171 ms
+Thread 9 execution time: 157 ms
+Average execution time: 163 ms
+
+10000_1
+
+Thread 0 execution time: 162 ms
+Thread 1 execution time: 161 ms
+Thread 2 execution time: 163 ms
+Thread 3 execution time: 160 ms
+Thread 4 execution time: 161 ms
+Thread 5 execution time: 159 ms
+Thread 6 execution time: 160 ms
+Thread 7 execution time: 155 ms
+Thread 8 execution time: 157 ms
+Thread 9 execution time: 152 ms
+Average execution time: 159 ms
+
+10000_2
+
+Thread 0 execution time: 167 ms
+Thread 1 execution time: 166 ms
+Thread 2 execution time: 158 ms
+Thread 3 execution time: 165 ms
+Thread 4 execution time: 167 ms
+Thread 5 execution time: 163 ms
+Thread 6 execution time: 166 ms
+Thread 7 execution time: 161 ms
+Thread 8 execution time: 160 ms
+Thread 9 execution time: 165 ms
+
+10000_3
+
+Thread 0 execution time: 162 ms
+Thread 1 execution time: 167 ms
+Thread 2 execution time: 158 ms
+Thread 3 execution time: 163 ms
+Thread 4 execution time: 157 ms
+Thread 5 execution time: 158 ms
+Thread 6 execution time: 160 ms
+Thread 7 execution time: 160 ms
+Thread 8 execution time: 160 ms
+Thread 9 execution time: 161 ms
+Average execution time: 160 ms
+
+10000_4
+
+Thread 0 execution time: 152 ms
+Thread 1 execution time: 148 ms
+Thread 2 execution time: 149 ms
+Thread 3 execution time: 143 ms
+Thread 4 execution time: 147 ms
+Thread 5 execution time: 146 ms
+Thread 6 execution time: 152 ms
+Thread 7 execution time: 152 ms
+Thread 8 execution time: 147 ms
+Thread 9 execution time: 147 ms
+Average execution time: 148 ms
+
+10000_0_almost
+
+Thread 0 execution time: 191 ms
+Thread 1 execution time: 183 ms
+Thread 2 execution time: 187 ms
+Thread 3 execution time: 182 ms
+Thread 4 execution time: 182 ms
+Thread 5 execution time: 184 ms
+Thread 6 execution time: 192 ms
+Thread 7 execution time: 190 ms
+Thread 8 execution time: 183 ms
+Thread 9 execution time: 189 ms
+Average execution time: 186 ms
+
+
+10000_1_almost
+
+Thread 0 execution time: 138 ms
+Thread 1 execution time: 135 ms
+Thread 2 execution time: 139 ms
+Thread 3 execution time: 144 ms
+Thread 4 execution time: 141 ms
+Thread 5 execution time: 140 ms
+Thread 6 execution time: 142 ms
+Thread 7 execution time: 141 ms
+Thread 8 execution time: 141 ms
+Thread 9 execution time: 139 ms
+Average execution time: 140 ms
+
+10000_2_almost
+
+Thread 0 execution time: 142 ms
+Thread 1 execution time: 144 ms
+Thread 2 execution time: 144 ms
+Thread 3 execution time: 135 ms
+Thread 4 execution time: 143 ms
+Thread 5 execution time: 140 ms
+Thread 6 execution time: 135 ms
+Thread 7 execution time: 138 ms
+Thread 8 execution time: 138 ms
+Thread 9 execution time: 136 ms
+Average execution time: 139 ms
+
+10000_3_almost
+
+Thread 0 execution time: 170 ms
+Thread 1 execution time: 166 ms
+Thread 2 execution time: 169 ms
+Thread 3 execution time: 168 ms
+Thread 4 execution time: 168 ms
+Thread 5 execution time: 163 ms
+Thread 6 execution time: 165 ms
+Thread 7 execution time: 168 ms
+Thread 8 execution time: 168 ms
+Thread 9 execution time: 163 ms
+Average execution time: 166 ms
+
+10000_4_almost
+
+Thread 0 execution time: 169 ms
+Thread 1 execution time: 163 ms
+Thread 2 execution time: 155 ms
+Thread 3 execution time: 172 ms
+Thread 4 execution time: 167 ms
+Thread 5 execution time: 162 ms
+Thread 6 execution time: 167 ms
+Thread 7 execution time: 158 ms
+Thread 8 execution time: 157 ms
+Thread 9 execution time: 172 ms
+Average execution time: 164 ms
+
